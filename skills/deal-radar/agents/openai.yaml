@@ -1,0 +1,4 @@
+interface:
+  display_name: "好价雷达 Deal Radar"
+  short_description: "按预算、风格和尺码筛选真优惠，核验实际到手价、折扣证据与购物截止日期"
+  default_prompt: "使用 $deal-radar，按我的预算、风格、尺码和收货地区，找真正值得考虑的大折扣商品。"
